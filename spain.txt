@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-Atletico
-=======
-Real Madrid
->>>>>>> alt_branch
+Atletico X
+
